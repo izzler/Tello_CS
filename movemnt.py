@@ -14,7 +14,7 @@ sleep(1)
 babner.rotate_clockwise(90)
 sleep(1)
 # move forward 50cm
-babner.move_forward(600)
+babner.move_forward(500)
 sleep(1)
 # turn
 babner.rotate_clockwise(90)
@@ -29,7 +29,7 @@ sleep(1)
 babner.rotate_clockwise(90)
 sleep(1)
 # move forward
-babner.move_forward(600)
+babner.move_forward(500)
 sleep(1)
 # landing
 babner.land()
